@@ -28,3 +28,6 @@ PTB's game mechanics are designed to create a balanced and engaging experience f
 
 ### **Read more**
 https://docs.google.com/document/d/1WTSjLc7gC1uyBQOzKkpvl230PTOL1ZGj9JEM_flnScQ/edit?usp=sharing
+
+### **Machinations**
+https://my.machinations.io/d/tokenomics/31ec350654af11ef9b9506fdf218a24f
