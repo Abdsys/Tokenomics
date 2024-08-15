@@ -1,4 +1,4 @@
-# SPAY Watch-to-Earn Protocol: README
+# SPAY Watch-to-Earn Protocol
 
 ## **Executive Summary**
 The SPAY Watch-to-Earn protocol allows users to mint three types of glasses: Common, Rare, and SuperScript. Each glass type has unique attributes and rewards users for watching content. SPAY tokens are burned in various compulsory and optional events to maintain the token’s value. The protocol follows a freemium model to onboard users, offering 15,000 free Common glasses initially. Users must stake SPAY tokens to earn rewards, with additional opportunities to upgrade their glasses, enhance attributes, and increase rewards.
