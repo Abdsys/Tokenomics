@@ -70,3 +70,6 @@ Contributions to enhance the model and analysis are welcome. Please submit pull 
 
 ### **Contact**
 For inquiries or further discussion, please open an issue or reach out to the authors directly.
+
+### **Read more**
+https://hackmd.io/thd3xqcHQnKg2YDe8pgxUw
